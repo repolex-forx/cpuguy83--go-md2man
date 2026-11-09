@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/cpuguy83/go-md2man/commit/061b6c7cbecd6752049221aa15b7a05160796698",
       "git:hexsha": "061b6c7cbecd6752049221aa15b7a05160796698",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.0.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.0.7",
+      "repolex:parsedAt": "2026-11-09T20:55:26.559636+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cpuguy83/go-md2man/commit/9e6aa16fb761edb30732b776308c920b40523d89",
