@@ -1,0 +1,11 @@
+{
+  "org": "cpuguy83",
+  "repo": "go-md2man",
+  "versions": [
+    {
+      "commit": "061b6c7cbecd6752049221aa15b7a05160796698",
+      "tag": "v2.0.7",
+      "parsed_at": "2026-11-09T20:55:26.560350+00:00"
+    }
+  ]
+}
