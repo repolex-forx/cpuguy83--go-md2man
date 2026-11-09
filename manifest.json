@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "cpuguy83",
+  "repo": "go-md2man",
+  "versions": [
+    {
+      "commit": "061b6c7cbecd6752049221aa15b7a05160796698",
+      "parsed_at": "2026-11-09T20:52:49.201966+00:00",
+      "tag": "v2.0.7",
+      "filetree": "filetree/061b6c7cbecd6752049221aa15b7a05160796698.nq.gz",
+      "blobs": [
+        "blob/0da6a0797acf863fdd5a1f2d4e9cbe2c9fe12526.nq.gz",
+        "blob/ccc2c64ffa3ca61f323c12c7d9d72add492928ce.nq.gz",
+        "blob/502a072c0ab7c14b338aad69a07f349b358f0fc9.nq.gz",
+        "blob/77b7be590e900e5d269837d9143b7451e3372cd4.nq.gz",
+        "blob/55d89f506884dc0dde9fd0e0053e11bd50f8d8a1.nq.gz",
+        "blob/30f97c3d73abbba4440fa7c6dfc60aaa9b0c56b4.nq.gz",
+        "blob/b9fc4dfdb52a559d4d6a3f8757c74c40721a3f09.nq.gz",
+        "blob/c7ff868ad8288c394e04e6e6b918df722f9f71c0.nq.gz",
+        "blob/4f1070fc5b79d43ae20bec4ab94cba5583d7fa1c.nq.gz",
+        "blob/c1e7d7e61b8b28776ae2cb620374d4fea3f2c267.nq.gz",
+        "blob/1cade6cef6a1cb8efdf8549d709a99734c454630.nq.gz",
+        "blob/0ec4b12c75d07021b534456c86566c9293af6576.nq.gz",
+        "blob/5f4a423d6f25ab75ed89c3e767fd0bfde46feb4a.nq.gz",
+        "blob/6248294b6a15fbe8c4879bf7d7f80002acf302cb.nq.gz",
+        "blob/12e550d6ce514304d6990b307363106234a73328.nq.gz",
+        "blob/5673f5c0bc6c5d9553f4ddb8888579c27f321ae4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
